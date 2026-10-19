@@ -44,17 +44,16 @@ const settings = {
   channelName: "Ellien Md",
 
   // ═══════════════════════════════════════════════
-  // 🖼️ MENU IMAGE
+  // 🖼️ IMAGES (Menu & Welcome)
   // ═══════════════════════════════════════════════
-  menuImage: "https://kommodo.ai/i/OYOmdD4hJEYHNaG6Yv2u",
-
-  // ═══════════════════════════════════════════════
-  // 🖼️ IMAGES 
-  // ═══════════════════════════════════════════════
+  menuImage: "https://files.catbox.moe/avkxyy.jpg",
+  menuImages: [
+    "https://files.catbox.moe/avkxyy.jpg"
+  ],
   welcomeImages: [
-    "https://kommodo.ai/i/OYOmdD4hJEYHNaG6Yv2u",
-    "https://kommodo.ai/i/OYOmdD4hJEYHNaG6Yv2u",
-    "https://kommodo.ai/i/OYOmdD4hJEYHNaG6Yv2u"
+    "https://files.catbox.moe/avkxyy.jpg",
+    "https://files.catbox.moe/avkxyy.jpg",
+    "https://files.catbox.moe/avkxyy.jpg"
   ],
 
   // ═══════════════════════════════════════════════
