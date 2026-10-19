@@ -1,0 +1,5 @@
+data/owner.json
+session/
+node_modules/
+*.log
+npm-debug.log*
