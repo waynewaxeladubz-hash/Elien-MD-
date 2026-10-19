@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://kommodo.ai/i/OYOmdD4hJEYHNaG6Yv2u" alt="ELLIEN MD" width="400" style="border-radius: 20px;">
+<img src="https://files.catbox.moe/avkxyy.jpg" alt="ELLIEN MD" width="400" style="border-radius: 20px;">
 
 <br><br>
 
@@ -20,7 +20,9 @@
 [![Deploy on Katabump](https://img.shields.io/badge/🚀%20Deploy%20on%20Katabump-FF6B00?style=for-the-badge&logo=rocket)](https://katabump.com/deploy)
 
 ### Step 1: Download Repository
-- Download the project source ZIP
+- Go to: https://github.com/waynewaxela01/Ellien-MD
+- Click the green **"Code"** button
+- Select **"Download ZIP"**
 
 ### Step 2: Upload to Katabump
 - Login to your Katabump dashboard
@@ -65,6 +67,7 @@
 # 𝐖𝐀𝐗𝐄𝐋𝐀 👽
 
 [![WhatsApp](https://img.shields.io/badge/📱%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/263738381357)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/waynewaxela01)
 [![Channel](https://img.shields.io/badge/📢%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb8n5spL2ATuQDY02x0X)
 
 </div>
