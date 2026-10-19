@@ -400,10 +400,9 @@ async function startEllienMd() {
                         const sender = key.participant || key.remoteJid;
                         const senderName = await EllienMd.getName(sender) || sender.split('@')[0];
 
-                        const caption = `┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+                        const caption = `┏━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃       👽 ELLIEN MD        ┃
-┃       Owner: Waxela       ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 🚫 *ANTI DELETE DETECTED!*
 
@@ -411,9 +410,7 @@ async function startEllienMd() {
 📱 *Number:* ${sender.split('@')[0]}
 🕒 *Time:* ${new Date().toLocaleString()}
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  📨 RECOVERED MESSAGE         ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛`;
+📨 *RECOVERED MESSAGE*`;
 
                         const ownerJid = settings.ownerNumber + '@s.whatsapp.net';
 
@@ -539,10 +536,9 @@ async function startEllienMd() {
             if (connection === "open") {
                 console.clear();
                 console.log(chalk.magenta.bold(`
-    ╔══════════════════════════════════╗
-    ║          👽 ELLIEN MD          ║
-    ║          Owner: Waxela         ║
-    ╚══════════════════════════════════╝
+    ╔═══════════════════════════╗
+    ║          👽 ELLIEN MD         ║
+    ╚═══════════════════════════╝
                 `));
                 console.log(chalk.magenta.bold(`    [ ELLIEN MD is Online! ]\n`));
                 console.log(chalk.cyan(`< ================================== >`));
@@ -587,9 +583,7 @@ async function startEllienMd() {
                         const userNumber = settings.ownerNumber || '263738381357';
 
                         const welcomeImages = settings.welcomeImages || [
-                            "https://kommodo.ai/i/OYOmdD4hJEYHNaG6Yv2u",
-                            "https://kommodo.ai/i/OYOmdD4hJEYHNaG6Yv2u",
-                            "https://kommodo.ai/i/OYOmdD4hJEYHNaG6Yv2u"
+                            "https://files.catbox.moe/avkxyy.jpg"
                         ];
 
                         const randomImage = welcomeImages[Math.floor(Math.random() * welcomeImages.length)];
@@ -609,8 +603,7 @@ async function startEllienMd() {
 🟢 sᴛᴀᴛᴜs: ᴏɴʟɪɴᴇ ᴀɴᴅ ʀᴇᴀᴅʏ!
 ┏━━━━━━━━━━━━━━━━━━┓
 ╏     📢 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ         
-╏👇 ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ
-┗━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━┓
 © ᴇʟʟɪᴇɴ ᴍᴅ ᴘʀᴏᴅᴜᴄᴛɪᴏɴs`;
 
                         const welcomeContext = {
